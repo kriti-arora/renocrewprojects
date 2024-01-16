@@ -1,0 +1,8 @@
+float a= 7/4 * 9/2
+Output will be taken considering that datatypes of a is different from the entities involved in its evaluation (i.e. integers)
+/ and * have same precedence so the result will be calculated on the basis of associativity i.e. Left to Right in this case
+Therefore,
+float a=1*9/2
+       =9/2
+       =4
+Since it is float o/p will be 4.0
